@@ -42,12 +42,18 @@ with basic navigation — **no backend integration** required.
 ## 📂 Folder Structure
 
 lib/
+
 ├── core/
-│ └── helpers/extensions.dart # Navigation helper
+
+│ └── helpers/extensions.dart    # Navigation helper
+
 ├── ui/
-│ ├── login_screen.dart # UI + Form + toggle password
-│ └── home_screen.dart # Simple ListView UI
-└── main.dart # App entry & routes 
+
+│ ├── login_screen.dart    # UI + Form + toggle password
+
+│ └── home_screen.dart    # Simple ListView UI
+
+└── main.dart    # App entry & routes 
 
 ---
 
